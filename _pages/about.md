@@ -44,9 +44,11 @@ Publications
 
 Standards
 ======
+
 &bull; __AI Model Representation, Compression, Distribution and Management__ 
 &nbsp; <small>In Progress</small>  
 &nbsp; <small>*[__IEEE Data Compression Standard Committee__](https://sagroups.ieee.org/2941/news/)*, 2020-Present</small> <br/>
+
 
 &bull; __Neural Network Representation and Model Compression Part 1: Convolution Neural Network__ 
 &nbsp; <small>Proposals for Neural Network Representation</small>  
