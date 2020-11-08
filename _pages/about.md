@@ -21,7 +21,7 @@ Publications
 <!-- <img width="140" height="130" align="left" src="https://github.com/iCGY96/iCGY96.github.io/raw/master/images/RPL.png"/> -->
 &bull; __Learning Open Set Network with Discriminative Reciprocal Points__  
 &nbsp; <small>__Guangyao Chen__, Limeng Qiao, Y. Shi, P. Peng, J. Li, T. Huang, S. Pu, Yonghong Tian</small>  
-&nbsp; <small>*__European Conference on Computer Vision (ECCV), 2020. (Spotlight)__* [**[PDF]**](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf) [**[ArXiv]**](https://arxiv.org/abs/2011.00178)</small> <br/>
+&nbsp; <small>*__European Conference on Computer Vision (ECCV), 2020. (Spotlight, Top5%)__* [**[PDF]**](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf) [**[ArXiv]**](https://arxiv.org/abs/2011.00178)</small> <br/>
 <!-- </li> -->
 <!-- &nbsp; <small>[**[PDF]**](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf)</small> -->
 
