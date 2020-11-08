@@ -45,19 +45,22 @@ Publications
 Standards
 ======
 
-&bull; __AI Model Representation, Compression, Distribution and Management__ 
-&nbsp; <small>In Progress</small>  
+&bull; __AI Model Representation, Compression, Distribution and Management__ <br/>
+&nbsp; <small>In Progress</small> <br/>
 &nbsp; <small>*[__IEEE Data Compression Standard Committee__](https://sagroups.ieee.org/2941/news/)*, 2020-Present</small> <br/>
 
-
+<!-- <img width="140" height="130" align="left" src="https://github.com/iCGY96/iCGY96.github.io/raw/master/images/salient.png"/> -->
+<!-- <li> -->
 &bull; __Neural Network Representation and Model Compression Part 1: Convolution Neural Network__ 
 &nbsp; <small>Proposals for Neural Network Representation</small>  
 &nbsp; <small>*[__National Information Technology Standardization Technical Committee__](http://std.samr.gov.cn/gb/search/gbDetailed?id=8D7864B09A1880BEE05397BE0A0A4551)*, 2017-2020.</small> <br/>
+<!-- </li> -->
+<!-- &nbsp; <small>[**[PDF]**](https://link.springer.com/chapter/10.1007/978-3-319-77383-4_44)</small>   -->
 
 Experience
 ======
-- __Research Intern, Pengcheng Lab, China.__ (2019.06-2019.09)
-- __Camp Intern in [DEECAMP](https://deecamp.com/#/home), China.__ (2018.07-2018.08)
+- __Research Intern, [Pengcheng Lab](http://www.pcl.ac.cn/)__, China. (2019.06-2019.09)
+- __Camp Intern in [DEECAMP](https://deecamp.com/)__, China. (2018.07-2018.08)
 
 Honors & Awards
 ======
