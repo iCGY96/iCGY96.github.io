@@ -12,7 +12,7 @@ About me
 ======
 I am a Ph.D student in [National Engineering Laboratory for Video Technology](http://idm.pku.edu.cn/), [School of EE&CS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn//), supervised by Prof.[Yonghong Tian](https://www.pkuml.org/).
 
-My research mainly focuses on computer vision and machine learning. In particular, I am interested in open set recognition, neural network representation, and few-shot learning, etc.
+My research mainly focuses on computer vision and machine learning. In particular, I am interested in open set recognition, neural network representation and few-shot learning, etc.
 
 Publications
 ======
@@ -54,8 +54,8 @@ Standards
 
 Experience
 ======
-&bull; __Research Intern, Pengcheng Lab, China.__ (2019.06-2019.09)
-&bull; __Camp Intern in [DEECAMP](https://deecamp.com/#/home), China.__ (2018.07-2018.08)
+- __Research Intern, Pengcheng Lab, China.__ (2019.06-2019.09)
+- __Camp Intern in [DEECAMP](https://deecamp.com/#/home), China.__ (2018.07-2018.08)
 
 Honors & Awards
 ======
