@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a Ph.D student in [National Engineering Laboratory for Video Technology](http://idm.pku.edu.cn/), [School of EE&CS](https://eecs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn//), supervised by Prof.[Yonghong Tian](https://www.pkuml.org/).
+I am a Ph.D student in [National Engineering Laboratory for Video Technology](http://idm.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), supervised by Prof.[Yonghong Tian](https://www.pkuml.org/).
 
 My research mainly focuses on computer vision and machine learning. In particular, I am interested in open set recognition, neural network representation and few-shot learning, etc.
 
@@ -44,13 +44,13 @@ Publications
 
 Standards
 ======
-&bull; __AI Model Representation, Compression, Distribution and Management__
-&nbsp; <small>In Progress</small> 
-&nbsp; <small>*[__IEEE Data Compression Standard Committee__](https://sagroups.ieee.org/2941/news/)*, 2020-Present</small><br/>
+&bull; __AI Model Representation, Compression, Distribution and Management__ 
+&nbsp; <small>In Progress</small>  
+&nbsp; <small>*[__IEEE Data Compression Standard Committee__](https://sagroups.ieee.org/2941/news/)*, 2020-Present</small> <br/>
 
-&bull; __Neural Network Representation and Model Compression Part 1: Convolution Neural Network__
-&nbsp; <small>Proposals for Neural Network Representation</small> 
-&nbsp; <small>*[__National Information Technology Standardization Technical Committee__](http://std.samr.gov.cn/gb/search/gbDetailed?id=8D7864B09A1880BEE05397BE0A0A4551)*, 2017-2020.</small><br/>
+&bull; __Neural Network Representation and Model Compression Part 1: Convolution Neural Network__ 
+&nbsp; <small>Proposals for Neural Network Representation</small>  
+&nbsp; <small>*[__National Information Technology Standardization Technical Committee__](http://std.samr.gov.cn/gb/search/gbDetailed?id=8D7864B09A1880BEE05397BE0A0A4551)*, 2017-2020.</small> <br/>
 
 Experience
 ======
