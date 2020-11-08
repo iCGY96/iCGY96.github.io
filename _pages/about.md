@@ -51,7 +51,7 @@ Standards
 
 
 &bull; __Neural Network Representation and Model Compression Part 1: Convolution Neural Network__ <br/>
-&nbsp; <small>Proposals for Neural Network Representation</small>  <br/>
+&nbsp; <small>Proposals for Neural Network Representation</small> [**[code]**](https://github.com/iCGY96/open-exchange) <br/>
 &nbsp; <small>*[__National Information Technology Standardization Technical Committee__](http://std.samr.gov.cn/gb/search/gbDetailed?id=8D7864B09A1880BEE05397BE0A0A4551)*, 2017-2020.</small> <br/>
 
 
