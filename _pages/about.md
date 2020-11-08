@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I am a Ph.D student in [National Engineering Laboratory for Video Technology](http://idm.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), supervised by Prof.[Yonghong Tian](https://www.pkuml.org/).
+I am a Ph.D student in [National Engineering Laboratory for Video Technology](http://idm.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), supervised by Prof.[Yonghong Tian](https://www.pkuml.org/). I received my Bachelor degree in Computer Science from Wuhan University in 2018.
 
 My research mainly focuses on computer vision and machine learning. In particular, I am interested in open set recognition, neural network representation and few-shot learning, etc.
 
