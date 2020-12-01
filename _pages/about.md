@@ -17,6 +17,10 @@ My research mainly focuses on computer vision and machine learning. In
 Publications
 ======
 
+&bull; __Annotation-Efficient Untrimmed Video Action Recognition__  
+&nbsp; <small>Yixiong Zou, Shanghang Zhang, __Guangyao Chen__, Yonghong Tian, Kurt Keutzer, José M. F. Moura</small>  
+&nbsp; <small>*__ArXiv, 2020.__* [**[ArXiv]**](https://arxiv.org/abs/2011.14478)</small> <br/>
+
 <!-- <li> -->
 <!-- <img width="140" height="130" align="left" src="https://github.com/iCGY96/iCGY96.github.io/raw/master/images/RPL.png"/> -->
 &bull; __Learning Open Set Network with Discriminative Reciprocal Points__  
