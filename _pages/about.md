@@ -51,7 +51,7 @@ Standards
 
 &bull; __AI Model Representation, Compression, Distribution and Management__ <br/>
 &nbsp; <small>In Progress</small> <br/>
-&nbsp; <small>*[__IEEE Data Compression Standard Committee__](https://sagroups.ieee.org/2941/)*, 2020-Present</small> <br/>
+&nbsp; <small>*[__IEEE P2941 AI Model Representation, Compression, Distribution and Management__](https://sagroups.ieee.org/2941/)*, 2020-Present</small> <br/>
 
 
 &bull; __Neural Network Representation and Model Compression Part 1: Convolution Neural Network__ <br/>
