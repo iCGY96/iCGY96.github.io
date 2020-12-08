@@ -51,12 +51,19 @@ Standards
 
 &bull; __AI Model Representation, Compression, Distribution and Management__ <br/>
 &nbsp; <small>In Progress</small> <br/>
-&nbsp; <small>*[__IEEE Data Compression Standard Committee__](https://sagroups.ieee.org/2941/news/)*, 2020-Present</small> <br/>
+&nbsp; <small>*[__IEEE Data Compression Standard Committee__](https://sagroups.ieee.org/2941/)*, 2020-Present</small> <br/>
 
 
 &bull; __Neural Network Representation and Model Compression Part 1: Convolution Neural Network__ <br/>
 &nbsp; <small>Proposals for Neural Network Representation, [**[code]**](https://github.com/iCGY96/open-exchange)</small>  <br/>
 &nbsp; <small>*[__National Information Technology Standardization Technical Committee__](http://std.samr.gov.cn/gb/search/gbDetailed?id=8D7864B09A1880BEE05397BE0A0A4551)*, 2017-2020.</small> <br/>
+
+
+Services
+======
+
+&bull; __Program Committee Member (Reviewer)__ <br/>
+&nbsp; <small>CVPR 2021</small> <br/>
 
 
 Experience
