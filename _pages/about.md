@@ -74,7 +74,7 @@ Experience
 Honors & Awards
 ======
 - __Merit Student__, Peking University, 2020.10. 
-- __Minor Award__, Peking University, 2020.10.
+- __The Second Prize of Peking University Scholarship__, Peking University, 2020.10.
 - __Best Proposal Award__, [DEECAMP](https://deecamp.com/#/home), 2018.06.
 - __Honorary Graduates of Hongyi Class__, Wuhan University, 2018.06.
 - __Outstanding Undergraduate Graduation Thesis__, Wuhan University, 2018.06.
