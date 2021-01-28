@@ -17,6 +17,10 @@ My research mainly focuses on computer vision and machine learning. In
 Publications
 ======
 
+&bull; __Adversarial Reciprocal Points Learning for Open Set Recognition__  
+&nbsp; <small>__Guangyao Chen__, Peixi Peng, Xiangqian Wang, Yonghong Tian</small>  
+&nbsp; <small>*__Soon Public__* </small> <br/>
+
 &bull; __Annotation-Efficient Untrimmed Video Action Recognition__  
 &nbsp; <small>Yixiong Zou, Shanghang Zhang, __Guangyao Chen__, Yonghong Tian, Kurt Keutzer, José M. F. Moura</small>  
 &nbsp; <small>*__ArXiv, 2020.__* [**[ArXiv]**](https://arxiv.org/abs/2011.14478)</small> <br/>
