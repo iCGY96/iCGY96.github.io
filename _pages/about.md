@@ -67,7 +67,7 @@ Services
 ======
 
 &bull; __Program Committee Member (Reviewer)__ <br/>
-&nbsp; <small>CVPR 2021</small> <small>ICCV 2021</small> <br/>
+&nbsp; <small>CVPR 2021</small>, <small>ICCV 2021</small> <br/>
 
 
 Experience
