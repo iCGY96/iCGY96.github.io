@@ -19,7 +19,7 @@ Publications
 
 &bull; __Adversarial Reciprocal Points Learning for Open Set Recognition__  
 &nbsp; <small>__Guangyao Chen__, Peixi Peng, Xiangqian Wang, Yonghong Tian</small>  
-&nbsp; <small>*__Soon Public__* </small> <br/>
+&nbsp; <small>*__ArXiv, 2021.__* [**[ArXiv]**](https://arxiv.org/abs/2103.00953) [**[Code]**](https://github.com/iCGY96/ARPL) </small> <br/>
 
 &bull; __Annotation-Efficient Untrimmed Video Action Recognition__  
 &nbsp; <small>Yixiong Zou, Shanghang Zhang, __Guangyao Chen__, Yonghong Tian, Kurt Keutzer, José M. F. Moura</small>  
@@ -29,7 +29,7 @@ Publications
 <!-- <img width="140" height="130" align="left" src="https://github.com/iCGY96/iCGY96.github.io/raw/master/images/RPL.png"/> -->
 &bull; __Learning Open Set Network with Discriminative Reciprocal Points__  
 &nbsp; <small>__Guangyao Chen__, Limeng Qiao, Y. Shi, P. Peng, J. Li, T. Huang, S. Pu, Yonghong Tian</small>  
-&nbsp; <small>*__European Conference on Computer Vision (ECCV), 2020. (Spotlight, Top5%)__* [**[PDF]**](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf) [**[ArXiv]**](https://arxiv.org/abs/2011.00178)</small> <br/>
+&nbsp; <small>*__European Conference on Computer Vision (ECCV), 2020. (Spotlight, Top5%)__* [**[PDF]**](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf) [**[ArXiv]**](https://arxiv.org/abs/2011.00178) [**[Dataset]**](https://www.pkuml.org/resources/pku-air300-dataset.html)</small> <br/>
 <!-- </li> -->
 <!-- &nbsp; <small>[**[PDF]**](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123480511.pdf)</small> -->
 
