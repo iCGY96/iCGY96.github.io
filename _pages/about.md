@@ -20,7 +20,7 @@ Publications
 
 &bull; __Annotation-Efficient Untrimmed Video Action Recognition__  
 &nbsp; <small>Yixiong Zou, Shanghang Zhang, __Guangyao Chen__, Yonghong Tian, Kurt Keutzer, José M. F. Moura</small>  
-&nbsp; <small>*__ACM MM, 2021.__* [**[ArXiv]**](https://arxiv.org/abs/2011.14478)</small> <br/>
+&nbsp; <small>*__ACM Multimedia (ACM MM), 2021.__* [**[ArXiv]**](https://arxiv.org/abs/2011.14478)</small> <br/>
 
 &bull; __Adversarial Reciprocal Points Learning for Open Set Recognition__  
 &nbsp; <small>__Guangyao Chen__, Peixi Peng, Xiangqian Wang, Yonghong Tian</small>  
