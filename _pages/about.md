@@ -17,13 +17,15 @@ My research mainly focuses on computer vision and machine learning. In
 Publications
 ======
 
+
+&bull; __Annotation-Efficient Untrimmed Video Action Recognition__  
+&nbsp; <small>Yixiong Zou, Shanghang Zhang, __Guangyao Chen__, Yonghong Tian, Kurt Keutzer, José M. F. Moura</small>  
+&nbsp; <small>*__ACM MM, 2021.__* [**[ArXiv]**](https://arxiv.org/abs/2011.14478)</small> <br/>
+
 &bull; __Adversarial Reciprocal Points Learning for Open Set Recognition__  
 &nbsp; <small>__Guangyao Chen__, Peixi Peng, Xiangqian Wang, Yonghong Tian</small>  
 &nbsp; <small>*__ArXiv, 2021.__* [**[ArXiv]**](https://arxiv.org/abs/2103.00953) [**[Code]**](https://github.com/iCGY96/ARPL) </small> <br/>
 
-&bull; __Annotation-Efficient Untrimmed Video Action Recognition__  
-&nbsp; <small>Yixiong Zou, Shanghang Zhang, __Guangyao Chen__, Yonghong Tian, Kurt Keutzer, José M. F. Moura</small>  
-&nbsp; <small>*__ArXiv, 2020.__* [**[ArXiv]**](https://arxiv.org/abs/2011.14478)</small> <br/>
 
 <!-- <li> -->
 <!-- <img width="140" height="130" align="left" src="https://github.com/iCGY96/iCGY96.github.io/raw/master/images/RPL.png"/> -->
