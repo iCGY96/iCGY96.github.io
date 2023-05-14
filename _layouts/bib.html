@@ -141,6 +141,12 @@
           {%- if entry.arxiv %}
             <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button">arXiv</a>
           {%- endif %}
+          {%- if entry.paper %}
+            <a href="{{ entry.paper }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
+          {%- endif %}
+          {%- if entry.dataset %}
+            <a href="{{ entry.dataset }}" class="btn btn-sm z-depth-0" role="button">Dataset</a>
+          {%- endif %}
           {%- if entry.bibtex_show %}
             <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
           {%- endif %}
