@@ -24,9 +24,6 @@
             <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
-        {%- if entry.award -%}
-          <abbr class="award">{{entry.award}}</abbr>
-        {%- endif -%}
         </div>
 
         <!-- Entry bib key -->
@@ -127,8 +124,11 @@
         {%- if entry.year -%}
           {%- capture entryyear -%}{{ " " }}{{entry.year}}{%- endcapture -%}
         {%- endif -%}
+        {%- if entry.award -%}
+          {%- capture entryaward -%}{{ "." }}<FONT COLOR="#ff0000"><b>{{entry.award}}</b></FONT> {%- endcapture -%}
+        {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
-        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
+        {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{{ entryaward }}{%- endcapture -%}
         <div class="periodical">
           {{ periodical | strip }}
         </div>
