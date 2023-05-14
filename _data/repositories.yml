@@ -1,12 +1,11 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - iCGY96
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - iCGY96/awesome_OpenSetRecognition_list
+  - iCGY96/ARPL
+  - iCGY96/APR
+  - iCGY96/AAP
+  - iCGY96/syops-counter
+  - iCGY96/Model-Pivot
+  - Jingkang50/OpenOOD
