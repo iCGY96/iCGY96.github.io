@@ -126,6 +126,8 @@
         {%- endif -%}
         {%- if entry.award -%}
           {%- capture entryaward -%}{{ " " }}<FONT COLOR="#ff0000"><b>({{entry.award}})</b></FONT> {%- endcapture -%}
+        {%- else -%}
+          {%- capture entryaward -%}{{ "" }}{%- endcapture -%}
         {%- endif -%}
         {% assign entrytype_text = entrytype | strip_html | strip %}
         {%- capture periodical -%}{{ entrytype }}{%- if entrytype_text != "" and entryyear != "" -%}, {%- endif -%}{{ entrymonth }}{{ entryyear }}{{ entryaward }}{%- endcapture -%}
