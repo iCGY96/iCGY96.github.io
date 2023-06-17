@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D student in [National Engineering Research Center of Visual Technology](http://idm.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), supervised by Prof.[Yonghong Tian](https://www.pkuml.org/). I received my Bachelor degree in Computer Science from Wuhan University in 2018.
+I received my Ph.D. degree at [National Engineering Research Center of Visual Technology](http://idm.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), supervised by Prof.[Yonghong Tian](https://www.pkuml.org/). I received my Bachelor degree in Computer Science from Wuhan University in 2018.
 
 My current research strives to learn efficient and robust AI models with prior knowledge, and reasoning and decision-making in the open world. 
 
