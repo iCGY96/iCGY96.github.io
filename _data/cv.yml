@@ -72,6 +72,11 @@
 - title: Selected Award
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - Outstanding Doctoral Dissertation Award, Peking University
+        - Outstanding Graduate of Beijing
+        - Outstanding Graduate of Peking University
     - year: 2022
       items: 
         - IEEE SA Certificate of Appreciation for Outstanding Contributions
