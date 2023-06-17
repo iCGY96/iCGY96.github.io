@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper is accepted by the journal **MIR 2023**.
+I receive my Ph.D. degree in computer science from Peking University with **Outstanding Doctoral Dissertation Award**.
