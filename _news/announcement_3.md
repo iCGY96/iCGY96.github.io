@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on Large-scale multi-modal pre-trained models is accepted by the journal **MIR 2022**.
+One paper on Large-scale multi-modal pre-trained models is accepted by the journal **Machine Intelligence Research (MIR) 2022**.
