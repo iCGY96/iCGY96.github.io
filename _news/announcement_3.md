@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-2023.11: Talk at [RLChina 2023](http://rlchina.org/rlchina_2023/Workshop.html) in Suzhou.
+Talk at [RLChina 2023](http://rlchina.org/rlchina_2023/Workshop.html) in Suzhou.
 
