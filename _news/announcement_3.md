@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2022-10-15 07:59:00-0400
+date: 2023-11-23 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-One paper on Large-scale multi-modal pre-trained models is accepted by the journal **Machine Intelligence Research (MIR) 2022**.
+2023.11: Talk at [RLChina 2023](http://rlchina.org/rlchina_2023/Workshop.html) in Suzhou.
+
