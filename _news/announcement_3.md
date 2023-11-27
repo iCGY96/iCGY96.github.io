@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Talk at [RLChina 2023](http://rlchina.org/rlchina_2023/Workshop.html) in Suzhou.
+Invited talk at [RLChina 2023](http://rlchina.org/rlchina_2023/Workshop.html) in Suzhou.
 
