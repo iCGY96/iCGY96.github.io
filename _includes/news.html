@@ -10,7 +10,7 @@
               {% assign news_limit = news_size %}
               {% endif %}
               {% for item in news limit: news_limit %}
-                <tr style="height: 50px;">
+                <tr style="height: 20px;">
                   <th>{{ item.date | date: "%Y.%m" }}</th>
                   <td>
                     {% if item.inline -%}
