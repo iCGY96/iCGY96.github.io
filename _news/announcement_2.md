@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-Two papers on Image-based Reinforcement Learning and Out-of-Distribution Detection are accepted by the conference **NeurIPS 2022**.
+ &nbsp;🎉🎉 Two papers on Image-based Reinforcement Learning and Out-of-Distribution Detection are accepted by the conference **NeurIPS 2022**.
