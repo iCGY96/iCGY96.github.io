@@ -11,11 +11,9 @@
               {% endif %}
               {% for item in news limit: news_limit %}
                 <tr>
-                  <div class="col-sm-2 p-0">
                    <span class="badge danger-color-dark font-weight-bold text-uppercase align-middle date ml-3">
                     {{ item.date | date: "%b %-d, %Y" }}
                    </span>
-                  </div>
                   <td>
                     {% if item.inline -%}
                       {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
