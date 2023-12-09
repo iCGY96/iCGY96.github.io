@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-One paper on Incremental Novel Class Discovery is accepted by the conference **AAAI 2024**.
+ &nbsp;🎉🎉 One paper on Incremental Novel Class Discovery is accepted by the conference **AAAI 2024**.
