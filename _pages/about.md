@@ -21,6 +21,9 @@ social: true  # includes social icons at the bottom of the page
 
 I received my Ph.D. degree at [National Engineering Research Center of Visual Technology](http://idm.pku.edu.cn/), [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn), supervised by Prof.[Yonghong Tian](https://www.pkuml.org/). I received my Bachelor degree in Computer Science from Wuhan University in 2018.
 
-My current research strives to learn efficient and robust AI models with prior knowledge, and reasoning and decision-making in the open world. 
+My research vision is to devise an efficient, reliable, and autonomous AI system that can operate in the open world. Guided by the principles of efficiency, reliability, and autonomy, I concentrate on these crucial aspects to enhance and adapt AI models: 
+- __Autonomous Agent__: constructing efficient and robust autonomous LLM-based agent systems that leverage LLMs to accomplish automated planning, reasoning, learning, and collaboration.
+- __Open World Learning__: boosting the robustness of efficient AI models in the open world, achieving adaptation to diverse distributions, and discovering and learning new categories. 
+- __Efficient AI Model__: designing an efficient AI model architecture and application criteria, aiming to empower AI models to run on resource-scarce devices, and facilitate efficient inference and learning. 
 
 Feel free to catch me if interested to discuss ideas or work together. 😜
