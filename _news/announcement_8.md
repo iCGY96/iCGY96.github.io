@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- &nbsp;🎉🎉 Two paper on Few-shot Learning is accepted by the conference **ACMMM 2024**.
+ &nbsp;🎉🎉 Two papers on Few-shot Learning are accepted by the conference **ACMMM 2024**.
