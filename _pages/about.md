@@ -6,7 +6,7 @@ subtitle:  # Postdoctoral Research Fellow <a href='#'>Affiliations</a>. Address.
 
 profile:
   align: right
-  image: CGY3.jpg
+  image: CGY4.jpeg
   image_circular: true # crops the image to make it circular
   address: # >
   #   <p>555 your office number</p>
