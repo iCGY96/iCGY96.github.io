@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- &nbsp;🎉🎉 One paper on Visual Reinforcement Learning are accepted by the conference **NeurIPS 2024**.
+ &nbsp;🎉🎉 One paper on Visual RL are accepted by the conference **NeurIPS 2024**.
