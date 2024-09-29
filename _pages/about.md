@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m currently a Postdoctoral Associate at [AI for Science Institute](https://science.ai.cornell.edu/), [Cornell University](https://www.cornell.edu/). I received my Ph.D. degree at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn). I received my Bachelor degree in Computer Science from Wuhan University in 2018.
+I’m currently a Postdoctoral Associate at [AI for Science Institute](https://science.ai.cornell.edu/), [Cornell University](https://www.cornell.edu/). I received my Ph.D. degree at [School of Computer Science](https://cs.pku.edu.cn/), [Peking University](https://www.pku.edu.cn). I received my Bachelor degree in Computer Science from [Wuhan University](https://www.whu.edu.cn/) in 2018.
 
 My research vision is to devise an efficient, reliable, and autonomous AI system that can operate in the open world. Guided by the principles of efficiency, reliability, and autonomy, I concentrate on these crucial aspects to enhance and adapt AI models: 
 - __Autonomous Agent__: constructing efficient and robust autonomous LLM-based agent systems that leverage LLMs to accomplish automated planning, reasoning, learning, and collaboration.
