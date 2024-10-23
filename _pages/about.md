@@ -24,6 +24,6 @@ I’m currently a Postdoctoral Associate at [AI for Science Institute](https://s
 My research vision is to devise an efficient, reliable, and autonomous AI system that can operate in the open world. Guided by the principles of efficiency, reliability, and autonomy, I concentrate on these crucial aspects to enhance and adapt AI models: 
 - __Autonomous Agent__: constructing efficient and robust autonomous LLM-based agent systems that leverage LLMs to accomplish automated planning, reasoning, learning, and collaboration.
 - __Open World Learning__: boosting the robustness of efficient AI models in the open world, achieving adaptation to diverse distributions, and discovering and learning new categories. 
-- __Efficient AI Model__: designing an efficient AI model architecture and application criteria, aiming to empower AI models to run on resource-scarce devices, and facilitate efficient inference and learning. 
+- __AI for Science__: using AI technology to determine the best manufacturing conditions for nanoparticle materials and accelerate the discovery of materials.
 
 Feel free to catch me if interested to discuss ideas or work together. 😜
