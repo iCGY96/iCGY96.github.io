@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- &nbsp;🎉🎉 I obtain the [CSIG 2024 Outstanding PhD Thesis Award](https://www.csig.org.cn/59/202411/52241.html) (10 people nationwide)..
+ &nbsp;🎉🎉 I awared the [CSIG 2024 Outstanding PhD Thesis Award](https://www.csig.org.cn/59/202411/52241.html) (10 people nationwide)..
