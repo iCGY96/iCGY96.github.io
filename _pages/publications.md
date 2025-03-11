@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: *Equal contribution and †Corresponding autho.
+description: * Equal contribution and # Corresponding autho.
 years: [2025, 2024, 2023, 2022, 2021, 2020, 2018]
 nav: true
 nav_order: 1
