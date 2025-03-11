@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /publications/
-title: Publications (*Equal contribution,†Corresponding author)
-description: # * denotes equal contribution and joint lead authorship.
+title: publications
+description: description # * denotes equal contribution and joint lead authorship. (*Equal contribution,†Corresponding author)
 years: [2025, 2024, 2023, 2022, 2021, 2020, 2018]
 nav: true
 nav_order: 1
